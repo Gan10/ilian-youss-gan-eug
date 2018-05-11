@@ -10,17 +10,23 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Projet : Moteur à vitesse multiple
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Notre projet consiste à simuler la vitesse d'un moteur commandé par 4 boutons poussoirs
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Répartition des tâches
 
-### Header 3
+Le premier binôme composé d'Ilian et de Youssef  s'occupe de la partie analyser/expérimenter des Sciences de l'ingénieur en écrivant et en testant le code.
+Le 2e binôme composé de Ganesha et d'Eugène s'occupe de la partie communiquer des Sciences de l'ingénieur en mettant à jour la page de documentation Github en utilisant le langage Markdown.
+
+### Cahier des charges
+
+La conception de notre système doit être réalisé sous forme d'une machine à état fini cadencé 1Hz
+Chaque vitesse désirée possède un bouton d'appel permettant à l'utilisateur de régler le moteur à la vitesse désirée
+Le bargraph ne doit allumer qu'une seule LED à tout instant (vitesse actuelle du moteur)
+La transition d'une vitesse à une autre doit être progressive.
+
 
 ```js
 // Javascript code with syntax highlighting.
