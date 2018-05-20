@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Projet : Moteur à vitesse multiple
+# PROJET : Moteur à vitesse multiple
 
 Notre projet consiste à simuler la vitesse d'un moteur commandé par 4 boutons poussoirs
 
