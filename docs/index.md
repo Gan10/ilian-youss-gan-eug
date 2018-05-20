@@ -23,8 +23,7 @@ Le 2e binôme composé de Ganesha et d'Eugène s'occupe de la partie communiquer
 ### Cahier des charges
 
 La conception de notre système doit être réalisé sous forme d'une machine à état fini cadencé 1Hz
-Chaque vitesse désirée possède un bouton d'appel permettant à l'utilisateur de régler le moteur à la vitesse désirée
-Le bargraph ne doit allumer qu'une seule LED à tout instant (vitesse actuelle du moteur)
+Chaque vitesse désirée possède un bouton d'appel permettant à l'utilisateur de régler le moteur à la vitesse désirée. Le bargraph ne doit allumer qu'une seule LED à tout instant (vitesse actuelle du moteur)
 La transition d'une vitesse à une autre doit être progressive.
 
 
