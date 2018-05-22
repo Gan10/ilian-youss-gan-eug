@@ -10,6 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+![ima](https://image.noelshack.com/fichiers/2018/21/2/1526990275-image123.jpg)
 # PROJET : Moteur à vitesse multiple
 
 Notre projet consiste à simuler la vitesse d'un moteur commandé par 4 boutons poussoirs
@@ -17,12 +18,16 @@ Notre projet consiste à simuler la vitesse d'un moteur commandé par 4 boutons 
 
 ## Répartition des tâches
 
+![imo](https://image.noelshack.com/fichiers/2018/21/2/1526990490-travail.jpg)
+
 Le premier binôme composé d'Ilian et de Youssef  s'occupe de la partie analyser/expérimenter des Sciences de l'ingénieur en écrivant et en testant le code.
-Le 2e binôme composé de Ganesha et d'Eugène s'occupe de la partie communiquer des Sciences de l'ingénieur en mettant à jour la page de documentation Github en utilisant le langage Markdown.
+Le second binôme composé de Ganesha et d'Eugène s'occupe de la partie communiquer des Sciences de l'ingénieur en mettant à jour la page de documentation Github en utilisant le langage Markdown.
 
 ### Cahier des charges
 
-La conception de notre système doit être réalisé sous forme d'une machine à état fini cadencé 1Hz
+![ime](https://image.noelshack.com/fichiers/2018/21/2/1526990972-cdc.jpg)
+
+La conception de notre système doit être réalisé sous forme d'une machine à état fini cadencé 1Hz.
 Chaque vitesse désirée possède un bouton d'appel permettant à l'utilisateur de régler le moteur à la vitesse désirée. Le bargraph ne doit allumer qu'une seule LED à tout instant (vitesse actuelle du moteur)
 La transition d'une vitesse à une autre doit être progressive.
 
@@ -42,10 +47,12 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Matériel
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Bouton poussoir : 
+![imp](https://image.noelshack.com/fichiers/2018/21/2/1526992643-sans-titre.png)
+*    Un Bargraphe qui est un indicateur visuel relatif de puissance, et/ou d'intensité, d'un signal 
+![imq](https://image.noelshack.com/fichiers/2018/21/2/1526993414-bargraph.png)
 *   This is an unordered list following a header.
 
 ##### Header 5
